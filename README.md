@@ -12,7 +12,7 @@
 - Консультация по Matplotlib.
   - [Тетрадка](https://github.com/V-Marco/hse_iad5_2021/blob/main/misc/vis_cons/matplotlib_cons.ipynb)
 
-- Семинар 1: Введение в Pandas!!!!
+- Семинар 1: Введение в Pandas
   - [Кодспект](https://github.com/V-Marco/hse_iad5_2021/blob/main/seminar1/sem1_pandas.ipynb)
   - [Видео](https://youtu.be/qPJjyeLOm7w)
   - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
